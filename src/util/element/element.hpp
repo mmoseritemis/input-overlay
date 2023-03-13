@@ -56,5 +56,5 @@ protected:
     gs_rect m_mapping = {};
 
     element_type m_type;
-    uint16_t m_keycode;
+    uint32_t m_keycode;
 };
